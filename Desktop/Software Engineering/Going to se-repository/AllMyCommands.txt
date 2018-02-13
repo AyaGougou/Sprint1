@@ -245,3 +245,23 @@ $ history
   243  git branch
   244  git merge ReadMe
   245  history
+  246  ls
+  247  git add AllMyCommands.txt
+  248  git status
+  249  git commit -m 'Committing AllMyCommands file with the history of all the commands I used'
+  250  git push origin master
+  251  git status
+  252  git log
+  253  git pull
+  254  ls
+  255  git push origin master
+  256  vim README.md
+  257  git checkout ReadMe
+  258  git add README.md
+  259  git status
+  260  git commit -m 'fixed error in text in this file'
+  261  git checkout master
+  262  git merge ReadMe
+  263  git status
+  264  git log
+  265  history
