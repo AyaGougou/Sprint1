@@ -1,0 +1,12 @@
+<div class="card">
+  Product ID:
+  <input type="text" name="productId" v-model="createProduct.id"/> <p> </p>
+  Name:
+  <input type="text" name="productName" v-model="createProduct.name"/> <p> </p>
+  Price:
+  <input type="text" name="productPrice" v-model="createProduct.price"/> <p> </p>
+  Seller Name:
+  <input type="text" name="sellerName" v-model="createProduct.sellerName"/> <p> </p>
+  <input type="submit" value="Create New Product"/>
+  </paper-table>
+</div>
